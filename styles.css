@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    background-color: blueviolet;
+    padding: 20px;
+}
+header{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+    font-family: cursive;
+    text-shadow: 2px 4px green;
+}
+main{
+    display:flex;
+    gap: 20px;
+    margin: 30px;
+}
+article{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 8px;
+}
+article{
+    text-decoration:none;
+}
+section,footer{
+    text-align: center;
+    gap:20px;
+    margin: 5%;
+}
+section{
+    text-align: ;
+    padding: 24;
+    background-color: aqua;
+}
+footer{
+    text-align: center;
+    padding: 0%;
+    background-color: chartreuse;
+    color: beige;
+}
